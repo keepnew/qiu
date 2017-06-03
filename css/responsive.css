@@ -1,0 +1,27 @@
+@media screen and(min-width:768px){
+
+/********************************* 
+TWO COLUMN LAYOUR
+ ********************************/
+ body{
+ 	background:blue;
+ }
+ 	#pramary{
+		width:50%;
+		float:left;
+	}
+	
+	#secondary{
+		width:40%;
+		float:right;
+	}
+ 	
+	/********************************* 
+TWO COLUMN LAYOUR
+ ********************************/
+ 
+ #gallery li{
+ 	width:28.3333%;
+ }
+ 
+}
